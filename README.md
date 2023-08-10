@@ -12,7 +12,7 @@
 
 
 
-This is a simple Perl script that scans for Local File Inclusion (LFI) vulnerabilities on web applications. It can help identify potential security weaknesses in web applications' file inclusion mechanisms.
+This is a simple Perl script that scans for Local File Inclusion (LFI) vulnerabilities on web applications.
 
 This script was originally inspired by a blog post on [Kaotic Creations](http://kaoticcreations.blogspot.com/2011/08/automated-lfirfi-scanning-exploiting.html), and it has been modified by Me for personal use.
 
