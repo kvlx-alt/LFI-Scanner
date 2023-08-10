@@ -44,6 +44,8 @@ This script was originally inspired by a blog post on [Kaotic Creations](http://
 
 5. The script will scan for LFI vulnerabilities and provide a summary of the results at the end.
 
+### Machine used for the example gif > [HackMyVM](https://hackmyvm.eu/machines/machine.php?vm=Registry)
+
 <p align="center">
   <img src="lfi2.gif" alt="Animated GIF">
 </p>
